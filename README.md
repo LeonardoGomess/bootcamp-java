@@ -1,15 +1,8 @@
-# Projeto ContaBanco
+# Diretório de Projetos do Bootcamp
 
-Este projeto é uma aplicação simples em Java que simula um sistema bancário. O programa solicita ao usuário o número da conta, a agência, o nome do cliente e o saldo, e exibe uma mensagem de confirmação com essas informações inseridas.
+Bem-vindo ao diretório de projetos do Bootcamp! Este repositório contém uma coleção de projetos desenvolvidos ao longo do curso, abordando uma variedade de tópicos e tecnologias. Cada projeto é uma oportunidade de aprendizado prático e resolução de problemas do mundo real.
 
-## O que o projeto faz
+## Estrutura do Diretório
 
-- O programa solicita ao usuário os seguintes dados:
-  1. Número da conta
-  2. Agência
-  3. Nome do cliente
-  4. Saldo
+Este diretório é organizado para facilitar a navegação entre os projetos. Cada subdiretório contém um projeto completo com todos os arquivos necessários para executar ou entender o projeto. A estrutura de diretórios é a seguinte:
 
-- Após a coleta das informações, o programa exibe uma mensagem personalizada contendo todos os dados inseridos.
-
-Este é um exercício de aprendizado de programação em Java, utilizando a classe `Scanner` para capturar as entradas do usuário via terminal.
