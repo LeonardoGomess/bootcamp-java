@@ -13,6 +13,8 @@ Para executar o Sudoku, passe os argumentos contendo a configuração do tabulei
 linha,coluna;valor,fixed
 ```
 
+
+
 Onde:
 - `linha,coluna` representa a posição da célula no tabuleiro (0 a 8 para ambos os valores).
 - `valor` é o número da célula (1 a 9).
